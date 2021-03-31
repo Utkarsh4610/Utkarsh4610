@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/utkarshkumar97/
 - ⚡ Fun fact: I love to play guitar in my free time.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh4610)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh4610)]
